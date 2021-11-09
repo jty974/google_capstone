@@ -183,7 +183,7 @@ Presenting the most important findings:
 knitr::include_graphics("hist_ride_length.png")
 
 ```
-
+![Distribution of ride length observation]("hist_ride_length.png")
 
 
 The histogram represent the ride duration in second, according to the density of observations.
@@ -208,6 +208,7 @@ So members tend to ride shorter time than casuals but maybe more frequently? (56
 knitr::include_graphics("ride_per_day.png")
 
 ```
+
 
 We can see here the ride length in second, splited per days of the week.
 The box plot shows that the 3 quartile of each days for both group of customer type, are mostly contain under the 1600 second ride length (~26min). 
