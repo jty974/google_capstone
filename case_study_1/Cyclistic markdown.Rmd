@@ -183,7 +183,7 @@ Presenting the most important findings:
 knitr::include_graphics("hist_ride_length.png")
 
 ```
-![Distribution of ride length observation]("hist_ride_length.png")
+![Distribution of ride length observation](hist_ride_length.png)
 
 
 The histogram represent the ride duration in second, according to the density of observations.
